@@ -43,7 +43,6 @@ public class CarController : MonoBehaviour
     {
         
     }
-
     private void GetInput()
     {
         horizInput = Input.GetAxis("Horizontal");
